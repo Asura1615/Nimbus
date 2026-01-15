@@ -1,0 +1,6 @@
+.pio
+.vscode
+.idea
+build
+.venv
+config.h
